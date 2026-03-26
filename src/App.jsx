@@ -682,8 +682,8 @@ function Contact() {
             Machine Learning, and Software Development. Let's build something impactful together.
           </p>
           <a 
-  href="/cv/Dipanshu_Thakur_CV.pdf" 
-  download="Dipanshu_Thakur_CV.pdf"
+  href="./cv/Dipanshu_Thakur_CV.pdf" 
+  download="resume.pdf"
   className="btn-primary"
 >
   ⬇️ Download CV
